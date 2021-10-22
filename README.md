@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=gurico&theme=radical&show_icons=ture" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=guric0516o&theme=radical&show_icons=ture" />
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurico0516&layout=compact&show_icons=true&theme=radical" />
 </p>
 
